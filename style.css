@@ -135,4 +135,9 @@ body{
    }
 }
 
+#education {
+   display: flex;
+   flex-direction: column;
+}
+
 /* #site-main */ 
